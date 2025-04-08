@@ -1,0 +1,22 @@
+F:/modelsim/modelsim_ase/examples/lab4/comb2.v {1 {vlog -work work -nocovercells F:/modelsim/modelsim_ase/examples/lab4/comb2.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module comb2_Siukalo
+
+Top level modules:
+	comb2_Siukalo
+
+} {} {}} F:/modelsim/modelsim_ase/examples/lab4/comb1.v {1 {vlog -work work -nocovercells F:/modelsim/modelsim_ase/examples/lab4/comb1.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module comb1_Siukalo
+
+Top level modules:
+	comb1_Siukalo
+
+} {} {}} F:/modelsim/modelsim_ase/examples/lab4/Ex2_Siukalo_OR.v {1 {vlog -work work -nocovercells F:/modelsim/modelsim_ase/examples/lab4/Ex2_Siukalo_OR.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ex2_OR
+
+Top level modules:
+	Ex2_OR
+
+} {} {}}
