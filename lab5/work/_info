@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+dF:\modelsim\modelsim_ase\examples
+vmultiplexer_8to1
+IAV?YOn4V?=D_UF=XmD59E2
+V4XDKAA;]oR38f[^[z?8MC0
+Z0 dF:\modelsim\modelsim_ase\examples\lab5
+w1745686065
+8F:/modelsim/modelsim_ase/examples/lab5/Lab5_Siukalo.v
+FF:/modelsim/modelsim_ase/examples/lab5/Lab5_Siukalo.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 o-work work -nocovercells -O0
+!s100 zM;zGDZfmGlfh`@dZIdlF1
+!s85 0
+!s101 -O0
+Z3 !s102 -nocovercells
+vmultiplexer_8to1_tb
+!s100 dbnf2[oImMU>al_9>k<WC1
+ILNn`BAHZb=zF@JOe7>6QN1
+VZ]m:m6n5^YX9?o0ohW;?=2
+Z4 dF:\modelsim\modelsim_ase\examples\lab5
+w1745686087
+8F:/modelsim/modelsim_ase/examples/lab5/Lab5_Siukalo_testbench.v
+FF:/modelsim/modelsim_ase/examples/lab5/Lab5_Siukalo_testbench.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R3
+R2
