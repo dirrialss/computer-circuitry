@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dF:\modelsim\modelsim_ase\examples
+vbitsum
+IaUY1VkX03R]0o@UO:?Hb[2
+Vi9NGmz9LhHK1Bn8hXVK7o2
+Z0 dF:\modelsim\modelsim_ase\examples\lab6\poryadokVykonannya
+Z1 w1747558362
+Z2 8F:/modelsim/modelsim_ase/examples/lab6/poryadokVykonannya/Siukalo_sum.v
+Z3 FF:/modelsim/modelsim_ase/examples/lab6/poryadokVykonannya/Siukalo_sum.v
+L0 18
+Z4 OV;L;6.5b;42
+r1
+31
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+!s100 HUHo[EPE>2h7F3FFgW[z=0
+!s85 0
+!s101 -O0
+vmy_sum
+I=@WJC]_ShjIB@`07h`IQd1
+V>AYa<]z<eWj:6=M96`WNj3
+Z7 dF:\modelsim\modelsim_ase\examples\lab6\poryadokVykonannya
+R1
+R2
+R3
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 Hf1E:ZfJ40E?1gfUamdB61
+!s85 0
+!s101 -O0
+vref_sum
+I0JcZJYW`[LRnQM@mKQ=Xi2
+V2OO;EahzC8PXB3K:FbSOT0
+R7
+w1747558379
+8F:/modelsim/modelsim_ase/examples/lab6/poryadokVykonannya/Siukalo_ref.v
+FF:/modelsim/modelsim_ase/examples/lab6/poryadokVykonannya/Siukalo_ref.v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 ?naUfOkE76^So>>GTY?OP2
+!s85 0
+!s101 -O0
+vtest_sum
+!s100 dQKe7c]Zf3[0hHb93o<010
+IUX?7XR[m@h]R>9ba2M=cF3
+V?[S@XOc7;P58OizZje^Po0
+R7
+w1747558411
+8F:/modelsim/modelsim_ase/examples/lab6/poryadokVykonannya/Siukalo_testbench.v
+FF:/modelsim/modelsim_ase/examples/lab6/poryadokVykonannya/Siukalo_testbench.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6
