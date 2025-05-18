@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dF:\modelsim\modelsim_ase\examples
+vbitsum
+IG[g_^8EQZGVZm4BZ1U32>1
+Vi9NGmz9LhHK1Bn8hXVK7o2
+Z0 dF:\modelsim\modelsim_ase\examples\lab6
+Z1 w1747568108
+Z2 8F:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_sum.v
+Z3 FF:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_sum.v
+L0 22
+Z4 OV;L;6.5b;42
+r1
+31
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+!s100 @_@RZjPCMaKJj96Q`PYjB1
+!s85 0
+!s101 -O0
+vmy_sum
+IOlDF2D7OnBaMn1ZdKjbz10
+V5:MColN9giVaMz1^<kL:?2
+Z7 dF:\modelsim\modelsim_ase\examples\lab6
+R1
+R2
+R3
+L0 2
+R4
+r1
+31
+R5
+R6
+!s100 >R>A:5nhKD`kYzP@zld<A3
+!s85 0
+!s101 -O0
+vref_sum
+IzbPnOz_TGGMoNdiokBY?L2
+V9:G:eW28:^mbNn=C?:NMX2
+R7
+w1747568125
+8F:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_ref.v
+FF:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_ref.v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 cJPY0G6d?@;nW;`RO`;[@1
+!s85 0
+!s101 -O0
+vtest_sum
+!s100 EM`3_=LZHGc[a3JOaW7H12
+IeI0A8>Nj:g?J4eMz[`YPb1
+V?[S@XOc7;P58OizZje^Po0
+R7
+w1747571727
+8F:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_testbench.v
+FF:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_testbench.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6
