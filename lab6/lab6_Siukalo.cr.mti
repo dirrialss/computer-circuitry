@@ -1,0 +1,16 @@
+F:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_ref.v {1 {vlog -work work -nocovercells F:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_ref.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module ref_sum
+
+Top level modules:
+	ref_sum
+
+} {} {}} F:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_sum.v {1 {vlog -work work -nocovercells F:/modelsim/modelsim_ase/examples/lab6/lab6_Siukalo_sum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module my_sum
+-- Compiling module bitsum
+
+Top level modules:
+	my_sum
+
+} {} {}}
